@@ -7,22 +7,22 @@ Aapka swagat hai MarketHub mein, ek web application jahan users apne shopping ex
 ---
 
 ### 1. Home Page
-!(https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/1.jpg)
+!(https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/1.png)
 
 ---
 
 ### 2. Store Page
-!(https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/2.jpg)
+!(https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/2.png)
 
 ---
 
 ### 3. Store Detail Page
-!(https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/3.jpg)
+!(https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/3.png)
 
 ---
 
 ### 4. Admin Dashboard
-( https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/4.jpg)
+( https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/4.png)
 
 ---
 
