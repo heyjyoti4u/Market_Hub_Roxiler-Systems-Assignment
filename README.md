@@ -20,13 +20,13 @@ Welcome to **MarketHub**, a web application where users can rate stores based on
 
 ## Installation and Setup
 
-### Prerequisites
-- Node.js (version 14 or higher)
-- npm (Node Package Manager)
-- Oracle Database (with provided connection details)
-
 ### Backend Setup
 1. Navigate to the `backend` folder.
-2. Install dependencies:  
-   ```bash
-   npm install
+2. Install dependencies: `npm install`
+3. Run the queries from `database_setup.sql` on your Oracle database to create the necessary tables and populate them with data.
+4. Start the backend server: `node server.js`
+
+### Frontend Setup
+1. Navigate to the `frontend` folder.
+2. Install dependencies: `npm install`
+3. Start the frontend server: `npm run dev`
