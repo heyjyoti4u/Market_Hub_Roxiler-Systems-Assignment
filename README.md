@@ -1,25 +1,30 @@
- # MarketHub: Store Rating Platform(Roxiler-System-Assignment)
-Welcome to the Market Hub, This is application shows genuine rating of particular stores
+# MarketHub: Store Rating Platform
+
+Aapka swagat hai MarketHub mein, ek web application jahan users apne shopping experience ke hisaab se stores ko rate kar sakte hain. Yeh platform customers, store owners, aur administrators ke liye alag-alag dashboards ke saath design kiya gaya hai. Isse ek transparent aur trust-based community banti hai.
+
 ## Key Features
 
-### 1. Customer Dashboard
-Yeh dashboard users ko saare stores ki list dikhata hai. Yahan users overall rating, apni di hui rating, aur naye reviews submit karne ka option dekh sakte hain.
+---
 
+### 1. Home Page
+!(https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/1.jpg)
 
-### 2. Store Detail Page
-Yeh page ek particular store ki puri jaankari deta hai, jismein uska naam, address, overall rating aur saare customer reviews shamil hote hain. Yahan users review submit ya update bhi kar sakte hain.
+---
 
+### 2. Store Page
+!(https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/2.jpg)
 
-### 3. Store Owner Dashboard
-Store owners ke liye, yeh dashboard unke apne stores ka overview deta hai. Yahan woh apne stores par aaye reviews aur unki average rating dekh sakte hain.
+---
 
+### 3. Store Detail Page
+!(https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/3.jpg)
+
+---
 
 ### 4. Admin Dashboard
-Admin ko saare stores par aaye reviews ka ek centralized view milta hai. Yeh feature admin ko platform par ho rahi activity ko monitor karne mein madad karta hai.
+( https://github.com/heyjyoti4u/Market_Hub_Roxiler-Systems-Assignment/images/4.jpg)
 
-
-[Image of the admin dashboard]
-
+---
 
 ## Installation and Setup
 
